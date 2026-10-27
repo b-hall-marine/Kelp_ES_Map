@@ -1,0 +1,22 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.Renviron
+
+# Session / cache
+.DS_Store
+Thumbs.db
+*~
+*.tmp
+
+# Output scratch (keep curated outputs/, ignore scratch)
+outputs/scratch/
+*.log
+
+# Large / local-only raw exports (uncomment and adapt as needed)
+# data/raw/
+# *.ris

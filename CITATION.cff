@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Kelp_ES_Map: data and code for a systematic map of ecosystem service provision by Laminaria hyperborea and Saccharina latissima"
+type: software
+authors:
+  - family-names: Hall
+    given-names: Benjamin
+    affiliation: "Dove Marine Laboratory, School of Natural and Environmental Sciences, Newcastle University, UK"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Eskuche-Keith
+    given-names: Patrick
+    affiliation: "Newcastle University, UK"
+  - family-names: Ren
+    given-names: Yaofa
+    affiliation: "Newcastle University, UK"
+  - family-names: Moore
+    given-names: Pippa J.
+    affiliation: "Newcastle University, UK"
+  - family-names: Fitzsimmons
+    given-names: Clare
+    affiliation: "Newcastle University, UK"
+  - family-names: Stephenson
+    given-names: Fabrice
+    affiliation: "Newcastle University, UK"
+repository-code: "https://github.com/b-hall-marine/Kelp_ES_Map"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-27"
+keywords:
+  - kelp
+  - ecosystem services
+  - systematic map
+  - Laminaria hyperborea
+  - Saccharina latissima
+  - biophysical drivers
+# doi: "10.5281/zenodo.XXXXXXX"   # add the Zenodo concept DOI once archived
+references:
+  - type: article
+    title: "Characterising ecosystem service provision by two morphologically distinct kelp species (Laminaria hyperborea and Saccharina latissima) and the biophysical drivers shaping these services: a systematic map protocol"
+    authors:
+      - family-names: Hall
+        given-names: Benjamin
+      - family-names: Eskuche-Keith
+        given-names: Patrick
+      - family-names: Ren
+        given-names: Yaofa
+      - family-names: Moore
+        given-names: Pippa J.
+      - family-names: Fitzsimmons
+        given-names: Clare
+      - family-names: Stephenson
+        given-names: Fabrice
+    journal: "Environmental Evidence"
+    year: 2026
+    volume: 15
+    doi: "10.1186/s13750-026-00385-w"
